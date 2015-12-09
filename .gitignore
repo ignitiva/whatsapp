@@ -1,2 +1,3 @@
+.meteor/.gitignore
 .meteor/local
 .meteor/meteorite
